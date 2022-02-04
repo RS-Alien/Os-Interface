@@ -1,0 +1,72 @@
+{
+  "name": "OasisSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://oasisswap.org/logo.png",
+  "keywords": ["oasisswap", "default"],
+  "tokens": [
+    {
+      "name": "WROSE Token",
+      "symbol": "WROSE",
+      "address": "0x792296e2a15e6Ceb5f5039DecaE7A1f25b00B0B0",
+      "chainId": 42261,
+      "decimals": 18,
+      "logoURI": "https://oasisswap.org/images/tokens/0x792296e2a15e6Ceb5f5039DecaE7A1f25b00B0B0.png"
+    },
+    {
+      "name": "WROSE Token",
+      "symbol": "WROSE",
+      "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": "https://oasisswap.org/images/tokens/0x21C718C22D52d0F3a789b752D4c2fD5908a8A733.png"
+    },
+    {
+      "name": "OasisSwap Token",
+      "symbol": "OS",
+      "address": "0xF1bfbC24f2C8c075Ea8f8ad976240bAD9a3eF50D",
+      "chainId": 42261,
+      "decimals": 18,
+      "logoURI": "https://oasisswap.org/images/tokens/0xF1bfbC24f2C8c075Ea8f8ad976240bAD9a3eF50D.png"
+    },
+    {
+      "name": "OasisSwap Token",
+      "symbol": "OS",
+      "address": "0xF1bfbC24f2C8c075Ea8f8ad976240bAD9a3eF50D",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": "https://oasisswap.org/images/tokens/0xF1bfbC24f2C8c075Ea8f8ad976240bAD9a3eF50D.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": "images/coins/0x0039f574eE5cC39bdD162E9A88e3EB1f111bAF48.png"
+    },
+     
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": "/images/coins/0x980a5AfEf3D17aD98635F6C5aebCBAedEd3c3430.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "chainId": 42262,
+      "decimals": 18,
+      "logoURI": "/images/coins/0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d.png"
+    }
+
+  ]
+}
