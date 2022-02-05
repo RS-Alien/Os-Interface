@@ -111,7 +111,7 @@ const Footer = () => {
           {t('No registration needed.')}
         </Text>
 
-        <Link external href="https://docs.oasisswap.org/">
+        <Link external href="https://oasisswap.gitbook.io/oasisswap">
           {t('Learn how to start')}
         </Link>
         {!account && <ConnectWalletButton mt="24px" />}

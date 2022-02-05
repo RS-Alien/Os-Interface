@@ -2626,10 +2626,10 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@oasisswap/uikit@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@oasisswap/uikit/-/uikit-0.2.3.tgz#100d530d21e1d5ede40a28b8287edc980c0ff165"
-  integrity sha512-OJxlGKXv2PorMhWvzBLFIvOBuTiPNgkZV8K4FO4j8tXO/tYD/uCr6F/K/dhGzwztVQoDTzlePldpqNubAhIPng==
+"@oasisswap/uikit@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@oasisswap/uikit/-/uikit-0.2.4.tgz#e9e402a2ebfd182b7382380d2566db08540b8d26"
+  integrity sha512-etZH3sBhchuN5IIRdhzaLcLtSFYc9NtaBIo9+fdLTOlEtP8Gb1t9HMMUSS2JhPAVGEwAdy4AILindRtn0R8O7A==
   dependencies:
     "@popperjs/core" "^2.9.2"
     "@types/lodash" "^4.14.168"

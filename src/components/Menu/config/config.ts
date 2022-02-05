@@ -118,12 +118,12 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
       },
       {
         label: t('Docs'),
-        href: 'https://docs.oasisswap.org',
+        href: 'https://oasisswap.gitbook.io/oasisswap',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
       {
         label: t('Contact'),
-        href: 'https://docs.oasisswap.org/contact-us',
+        href: 'https://oasisswap.gitbook.io/oasisswap/contact-us',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
       {

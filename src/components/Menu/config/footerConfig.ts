@@ -7,7 +7,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Contact'),
-        href: 'https://docs.oasisswap.org/contact-us',
+        href: 'https://oasisswap.gitbook.io/oasisswap/contact-us',
       },
       {
         label: t('Community'),
@@ -19,7 +19,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('OS token'),
-        href: 'https://docs.oasisswap.org/token/os/os-tokenomics',
+        href: 'https://oasisswap.gitbook.io/oasisswap/token/os/os-tokenomics',
       },
  /**  {
         label: '—',
@@ -37,15 +37,15 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
     items: [
       {
         label: t('Customer Support'),
-        href: 'https://docs.oasisswap.org/Customer-Support',
+        href: 'https://oasisswap.gitbook.io/oasisswap/Customer-Support',
       },
       {
         label: t('Troubleshooting'),
-        href: 'https://docs.oasisswap.org/help/troubleshooting',
+        href: 'https://oasisswap.gitbook.io/oasisswap/help/troubleshooting',
       },
       {
         label: t('Guides'),
-        href: 'https://docs.oasisswap.org/get-started',
+        href: 'https://oasisswap.gitbook.io/oasisswap/get-started',
       },
     ],
   },
@@ -58,7 +58,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('Documentation'),
-        href: 'https://docs.oasisswap.org',
+        href: 'https://oasisswap.gitbook.io/oasisswap',
       },
       {
         label: t('Audits'),
@@ -66,7 +66,7 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
       },
       {
         label: t('Careers'),
-        href: 'https://docs.oasisswap.org/hiring/become-a-chef',
+        href: 'https://oasisswap.gitbook.io/oasisswap/hiring/become-a-chef',
       },
     ],
   },

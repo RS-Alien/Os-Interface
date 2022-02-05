@@ -10,7 +10,7 @@ export const swapSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.oasisswap.org/',
+    to: 'https://oasisswap.gitbook.io/oasisswap/',
     text: 'Learn',
     external: true,
   },
@@ -34,7 +34,7 @@ export const earnSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.oasisswap.org/products/yield-farming',
+    to: 'https://oasisswap.gitbook.io/oasisswap/products/yield-farming',
     text: 'Learn',
     external: true,
   },
@@ -59,7 +59,7 @@ export const osSectionData: SalesSectionProps = {
     external: false,
   },
   secondaryButton: {
-    to: 'https://docs.oasisswap.org/tokenomics/OS',
+    to: 'https://oasisswap.gitbook.io/oasisswap/tokenomics/OS',
     text: 'Learn',
     external: true,
   },

@@ -71,7 +71,7 @@ const Footer: React.FC<{ variant?: FooterVariant }> = ({ variant = 'default' }) 
             id="clickExchangeHelp"
             as="a"
             external
-            href="https://docs.oasisswap.org/exchange"
+            href="https://oasisswap.gitbook.io/oasisswap/exchange"
             variant="subtle"
           >
             {t('Need help ?')}
