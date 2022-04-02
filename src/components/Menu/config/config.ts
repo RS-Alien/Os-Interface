@@ -133,7 +133,7 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
       },
       {
         label: t('Multi Sender'),
-        href: 'https://multisender-1.vercel.app',
+        href: 'https://multisender.oasisswap.org',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
     ],
