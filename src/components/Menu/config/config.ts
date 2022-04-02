@@ -136,6 +136,16 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
         href: 'https://multisender.oasisswap.org',
         type: DropdownMenuItemType.EXTERNAL_LINK,
       },
+      {
+        label: t('Audit'),
+        href: 'https://github.com/oasisswap/Audit-Report',
+        type: DropdownMenuItemType.EXTERNAL_LINK,
+      },
+      {
+        label: t('Bridge),
+        href: 'https://portalbridge.com/',
+        type: DropdownMenuItemType.EXTERNAL_LINK,
+      },
     ],
   },
 ]
