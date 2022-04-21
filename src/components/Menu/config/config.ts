@@ -117,6 +117,11 @@ const config: (t: ContextApi['t']) => ConfigMenuItemsType[] = (t) => [
         type: DropdownMenuItemType.DIVIDER,
       },
       {
+        label: t('IFO'),
+        href: 'https://Ifo.oasisswap.org',
+        type: DropdownMenuItemType.EXTERNAL_LINK,
+      },
+      {
         label: t('Docs'),
         href: 'https://oasisswap.gitbook.io/oasisswap',
         type: DropdownMenuItemType.EXTERNAL_LINK,
